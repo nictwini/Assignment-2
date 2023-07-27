@@ -8,6 +8,7 @@ public class Mymath {
 	public void Multiply(int a, int b) {
 		System.out.println(a * b);
 	}
+	// division
 	public void Divide(int a, int b) {
 		System.out.println(a / b);
 	}
