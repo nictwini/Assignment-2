@@ -14,6 +14,7 @@ public class Driver {
 		m.Quadratic(3, 10, 5);
 		m.Hypotenus(3, 2);
 		m.Temp(39, 0);
+		m.Squareroot(55);
 	}
 	
 }

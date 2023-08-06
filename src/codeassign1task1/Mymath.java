@@ -26,5 +26,7 @@ public class Mymath {
 		b = (a - 32) * 5 / 9;
 		System.out.println("Celsius = " + b);
 	}
-	
+	public void Squareroot(int a) {
+		System.out.println("The square root of " + a + " is: " + Math.sqrt(a));
+	}
 }
